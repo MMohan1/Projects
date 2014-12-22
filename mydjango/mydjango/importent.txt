@@ -1,0 +1,1 @@
+https://groups.google.com/forum/#!topic/django-non-relational/aWG8qO4sxgI For mongodb connection
